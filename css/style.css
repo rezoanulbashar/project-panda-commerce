@@ -1,0 +1,81 @@
+.slider-bg{
+    background-color: #FEEAE9;
+}
+.slider-content h2{
+font-size: 50px;
+font-weight: 700;
+line-height: 50px;
+color: #000000;
+}
+.slider-content p{
+    color: gray;
+    font-size: 20px;
+    line-height: 30px;
+    font-weight: 400;
+}
+.slider-content h3{
+    color: #FF2D80;
+    font-size: 40px;
+    font-weight: 600;
+    line-height: 50px;
+}
+.slider-content button{
+    padding: 10px 30px;
+    background-color: #FF2D80;
+    color: #ffffff;
+    font-size: 20px;
+    border: 1px solid #FF2D80;
+    font-weight: 500;
+
+}
+.nav-bar-container{
+    background-color: red;
+}
+.header .container-fluid{
+    background-color: #F8F9FA;
+}
+.Watch-bg{
+    background-color: red;
+}
+.product-categories h3{
+    color: #ffffff;
+    font-size: 35px;
+    font-weight: 600;
+}
+.product-categories img{
+    width: 130px;
+}
+.card-footer{
+    background: #ffffff;
+    border-top: 0;
+    margin: 0;
+    padding: 0;
+}
+.product-name{
+    font-size: 40px;
+    font-weight: 700;
+
+}
+.card-title{
+    font-size: 25px;
+    font-weight: 700;
+}
+.card-text{
+    color: #999999;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px;
+}
+.product-price{
+    font-size: 25px;
+    font-weight: 700;
+}
+.card-body h6{
+    font-size: 25px;
+    font-weight: 700;
+}
+.btn-dark{
+    padding: 10px 40px;
+    font-size: 20px;
+    font-weight: 600;
+}
